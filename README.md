@@ -18,23 +18,12 @@ Research Question/Topics:
 
 Data Sources:
 Categories
-  Ev data
-  Census data
-  Ownership by suburb
-  Changes over time (multiple year datasets)
-  Compare to other countries?
-
-https://www.abs.gov.au/statistics/industry/tourism-and-transport/motor-vehicle-census-australia/latest-release
-Vehicle Census inc data on registrations
-By state
-By fuel type
-
-https://www.abs.gov.au/statistics/industry/tourism-and-transport/transport-census/2021
-Transport Census
-Includes data by household composition
-
-https://www.abs.gov.au/articles/electric-passenger-vehicle-use-experimental-estimates
-Electric passenger Vehicle estimates
+  Census data : https://www.abs.gov.au/statistics/industry/tourism-and-transport/motor-vehicle-census-australia/latest-release
+    Vehicle fuel type statistics
+    Income and Education statistics
+  
+  Matthew Proctor: https://www.matthewproctor.com/australian_postcodes#downloadlinks
+    Breakdown of postcodes by rural/metropolitan areas for sepparate comparrison
 
 Australian Bureau of Statistics: The ABS provides data on a wide range of topics, including vehicle ownership. They have data on new motor vehicle sales by type, including electric vehicles.
 Data sources: ABS website, ABS data cubes
@@ -75,3 +64,4 @@ Work milestones:
     *Start using data to create some preliminary plots to outline trends.
     *Determine if other data will be required.
     *Adjust scope of study.
+    
